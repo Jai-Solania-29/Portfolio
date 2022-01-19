@@ -6,6 +6,7 @@ const Homepage =()=>{
     return (
 <div className="homepage">
     <h1>Hello</h1>
+    <p>khdkjfguskgfkygestjfgrjsdyfgkcuyshbhjfvygykduvbrgfuykfvhyidi</p>
     <About/>
     
 </div>
