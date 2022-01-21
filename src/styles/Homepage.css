@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
 .homepage{
     margin-left: 7%;
     text-align: left;
+    margin-top: 3%;
 }
 .name{
     text-align: left;
@@ -10,10 +13,102 @@
 body{
     background-color: #181818;
 }
+.html{
+    color: #515152;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 2px;
+}
+.body{
+    margin-left: 1%;
+    margin-top: -0.5%;
+    color: #515152;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 2px;
+}
+.h1{
+    margin-left: 1%; 
+    color: #515152;
+    margin-bottom: -1.5%;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 2px;
+}
+.h1close{
+    color: #515152;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    font-weight: lighter;
+    padding-left: 1%;
+}
+.hey{
+    margin-left: 3%;
+    font-size: 5rem;
+    margin-top: 2%;
+    letter-spacing: -1px;
+    font-family: 'Anton', sans-serif;
+}
+.jai{
+    margin-left: 3%;
+    font-size: 5rem;
+    margin-top: -4%;
+    letter-spacing: -1px;
+    font-family: 'Anton', sans-serif;
+}
+.web{
+    margin-left: 3%;
+    font-size: 5rem;
+    margin-top: -4%;
+    letter-spacing: -1px;
+    font-family: 'Anton', sans-serif;
+}
+.p{
+    margin-left: 1%;
+    color: #515152;
+    margin-top: -1.5%;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 2px;
+    margin-top: -2.8%;
+}
+.pc{
+    margin-left: 1%;
+    color: #515152;
+    margin-top: -1%;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 2px;
+    margin-top: -1.6%;
+}
+.detail{
+    margin-left: 3%;
+    margin-top: -1%;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.5rem;
+    color: #A5A5A5;
+    letter-spacing: 4px;
+}
 .intro{
     color: white;
     margin-left: 2%;
 }
-.html{
-    color: #515152;
+.scroll{
+    display: flex;
+    margin-top: 3.8%;
+}
+.scrl1{
+    transform: rotate(90deg);
+    margin-left: -8%;
+}
+.scrl2{
+    transform: rotate(90deg);
+    margin-left: 95.2%;
+}
+.icons{
+    display: flex;
+}
+.icon1{
+    margin-left: -6%;
+    padding-top: 0.5%;
+}
+.icon2{
+    margin-left: 100%;
+    padding-top: 0.5%;
 }
