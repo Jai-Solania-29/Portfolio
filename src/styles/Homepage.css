@@ -5,6 +5,11 @@
     text-align: left;
     margin-top: 3%;
 }
+.intro{
+    color: white;
+    margin-left: 2%;
+    margin-top: -30%;
+}
 .name{
     text-align: left;
     margin-top: 3%;
@@ -84,10 +89,6 @@ body{
     font-size: 1.5rem;
     color: #A5A5A5;
     letter-spacing: 4px;
-}
-.intro{
-    color: white;
-    margin-left: 2%;
 }
 .scroll{
     display: flex;
