@@ -5,7 +5,9 @@ import Menu from "./Menu";
 
 const Homepage =()=>{
     return (
+
 <div className="homepage">
+        <Menu/>
     <div className="intro">
         <p className="html">&lt; html &gt;</p>
         <p className="body">&lt; body &gt;</p>
@@ -26,18 +28,7 @@ const Homepage =()=>{
             <p className="icon2"><FaAngleDoubleDown/></p>
         </div>
        
-    
-    
     </div>
-    
-    
-
-
-
-
-
-
-    <Menu/>
 </div>
     )
 }

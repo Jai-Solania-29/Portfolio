@@ -1,0 +1,30 @@
+
+.menu-bar{
+    color: white;
+    text-align: right;
+    margin-right: 1%;
+    margin-top: 10%;
+}
+.home{
+    font-size: 1.8rem;
+}
+.about{
+    font-size: 1.8rem;
+    margin-top: -1%;
+}
+.skill{
+    font-size: 1.8rem;
+    margin-top: -1%;
+}
+.tool{
+    font-size: 1.8rem;
+    margin-top: -1%;
+}
+.work{
+    font-size: 1.8rem;
+    margin-top: -1%;
+}
+.contact{
+    font-size: 1.8rem;
+    margin-top: -1%;
+}

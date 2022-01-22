@@ -8,12 +8,10 @@ export const routes: Route[] = [
 {
         path:"/",
         element:<Homepage/>
-
 },
 {
     path:"/menu",
     element:<Menu/>
-
 },
 
 ];
