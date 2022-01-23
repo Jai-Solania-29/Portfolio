@@ -12,11 +12,11 @@ const Menu =()=>{
         <div className="menu">
            <div className="menu-bar">
                <p className="home"><AiTwotoneHome/></p>
-               <p className="about"><BsPersonFill/></p>
-               <p className="skill"><BsFileCodeFill/></p>
-               <p className="tool"><AiTwotoneTool/></p>
-               <p className="work"><FaEye/></p>
-               <p className="contact"><IoMdMail/></p>
+               <p className="about1"><BsPersonFill/></p>
+               <p className="skill1"><BsFileCodeFill/></p>
+               <p className="tool1"><AiTwotoneTool/></p>
+               <p className="work1"><FaEye/></p>
+               <p className="contact1"><IoMdMail/></p>
 
            </div>
         </div>

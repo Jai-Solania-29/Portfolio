@@ -2,6 +2,7 @@ import React from "react"
 import {  Route,  ReactLocation } from "react-location";
 import Menu from "./components/Menu";
 import Homepage from "./components/Homepage";
+import About from "./components/About";
 
 export const routes: Route[] = [
 
@@ -12,6 +13,10 @@ export const routes: Route[] = [
 {
     path:"/menu",
     element:<Menu/>
+},
+{
+    path:"/about",
+    element:<About/>
 },
 
 ];

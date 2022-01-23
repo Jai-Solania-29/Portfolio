@@ -16,8 +16,9 @@
     color: white;
 }
 body{
-    background-color: #181818;
+    background-color: #040C18;
 }
+/* #181818 */
 .html{
     color: #515152;
     font-family: 'Yellowtail', cursive;
@@ -41,7 +42,7 @@ body{
     color: #515152;
     font-family: 'Yellowtail', cursive;
     letter-spacing: 2px;
-    font-size: 1rem;
+    font-size: 0.9rem;
     font-weight: lighter;
     padding-left: 1%;
 }
