@@ -14,13 +14,13 @@
     color: #515152;
     font-family: 'Yellowtail', cursive;
     letter-spacing: 2px;
-    margin-left: 1%;
+    margin-left: 2.6%;
     margin-top: 4%;
 }
 .shead{
     font-size: 5rem;
     letter-spacing: -1px;
-    margin-left: 3%;
+    margin-left: 7%;
     margin-top: -0.8%;
     font-family: 'Anton', sans-serif;
     color: #08FDD8;
@@ -40,9 +40,12 @@
 }
 .fill{
     width: 50%;
+    padding-left: 2%;
 }
 .front{
     font-family: 'Roboto Mono', monospace;
+    margin-bottom: 1%;
+    font-size: 1.2rem;
 }
 .front-measure{
     display: block;
@@ -54,7 +57,7 @@
     margin-top: 1%;
 }
 .front-measure span{
-    height: 3px;
+    height: 2px;
     background-color: #08FDD8;
     float: left;
     margin-top: 0.6px;
@@ -72,6 +75,9 @@
     }}
 .react{
     font-family: 'Roboto Mono', monospace;
+    margin-bottom: 1%;
+    margin-top: 4%;
+    font-size: 1.2rem;
 }
 .react-measure{
     display: block;
@@ -101,6 +107,9 @@
     }}
 .c{
     font-family: 'Roboto Mono', monospace;
+    margin-bottom: 1%;
+    margin-top: 4%;
+    font-size: 1.2rem;
 }
 .c-measure{
     display: block;
@@ -130,6 +139,9 @@
     }}
 .python{
     font-family: 'Roboto Mono', monospace;
+    margin-bottom: 1%;
+    margin-top: 4%;
+    font-size: 1.2rem;
 }
 .python-measure{
     display: block;
