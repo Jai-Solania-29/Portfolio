@@ -20,7 +20,7 @@ const About = () =>{
             <div className="profile">
                 <img className="image" src={jai} alt="jai" />;
             </div>
- 
+            
         </div>
     )
 }

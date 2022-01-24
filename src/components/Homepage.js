@@ -1,8 +1,9 @@
 import React from "react";
-import { FaAngleDoubleDown } from "react-icons/fa";
-import "../styles/Homepage.css"
 import Menu from "./Menu";
 import About from "./About";
+import Skills from "./Skills";
+import "../styles/Homepage.css"
+import { FaAngleDoubleDown } from "react-icons/fa";
 
 const Homepage =()=>{
     return (
@@ -31,6 +32,7 @@ const Homepage =()=>{
        
     </div>
     <About/>
+    <Skills/>
 </div>
     )
 }
