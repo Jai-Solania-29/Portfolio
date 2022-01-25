@@ -3,7 +3,9 @@
     color: white;
     margin-left: 2%;
     margin-top: 10%;
-    margin-bottom: 3%;
+    margin-bottom: 2%;
+}
+.tools2{
     margin-bottom: 5%;
 }
 .h4{
@@ -29,4 +31,113 @@
     font-size: 0.9rem;
     font-weight: lighter;
     margin-left: 1%;
+}
+.icons2{
+    display: flex;
+}
+.icons3{
+    display: flex;
+}
+.i-html{
+    font-size: 4rem;
+    margin-top: 1%;
+    margin-left: 6%;
+    color: #FF7A00;
+    background-color: #040C18;
+}
+.i-css{
+    font-size: 4rem;
+    margin-top: 1%;
+    margin-left: 9%;
+    color: #3DB2FF;
+    background-color: #040C18;
+}
+.i-java{
+    font-size: 4rem;
+    margin-top: 1%;
+    margin-left: 9%;
+    color: yellow;
+    background-color: #040C18;
+}
+.i-boot{
+    font-size: 4rem;
+    margin-top: 1%;
+    margin-left: 8%;
+    color: #8236CB;
+    background-color: #040C18;
+}
+.i-python{
+    height: 90px;
+    margin-top: 1%;
+    margin-left: 5.5%;
+}
+.i-clang{
+    height: 90px;
+    margin-top: 1%;
+    margin-left: 6.2%;
+}
+.i-react{
+    font-size: 4rem;
+    margin-top: 1%;
+    margin-left: 9.9%;
+    color: skyblue;
+    background-color: #040C18;
+}
+#img{
+    height: 85%;
+}
+#ptn{
+    font-size: 1.5rem;
+    color: white;
+    margin-left: 0.8%;
+    height: 2%;
+    margin-top: 2.5%;
+}
+#ptn:hover{
+    color: #08FDD8;
+}
+.ptn{
+    font-size: 1.5rem;
+    color: white;
+    margin-left: 1.5%;
+    height: 2%;
+    margin-top: 2.5%;
+}
+.ptn:hover{
+    color: #08FDD8;
+}
+/* #FF7A00 */
+
+#name{
+    font-size: 1.5rem;
+    color: white;
+    margin-left: 1%;
+    height: 2%;
+    margin-top: 2.5%;
+}
+#name:hover{
+    color: #08FDD8;
+}
+.scroll3{
+    display: flex;
+    margin-top: -3%;
+}
+.scrl5{
+    transform: rotate(90deg);
+    margin-left: -8%;
+}
+.scrl6{
+    transform: rotate(90deg);
+    margin-left: 95.2%;
+}
+.icons3{
+    display: flex;
+}
+.icon5{
+    margin-left: -5.9%;
+    padding-top: 0.5%;
+}
+.icon6{
+    margin-left: 100%;
+    padding-top: 0.5%;
 }

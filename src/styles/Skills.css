@@ -71,7 +71,7 @@
         width: 0%;
     }
     100%{
-        width: 100%;
+        width: 85%;
     }}
 .react{
     font-family: 'Roboto Mono', monospace;
@@ -96,13 +96,13 @@
 }
 .react-per{
     width: 65%;
-    animation: front 2s;
+    animation: react 2s;
 }
 @keyframes react {
     0%{
         width: 0%;
     }
-    65%{
+    100%{
         width: 65%;
     }}
 .c{
@@ -128,13 +128,13 @@
 }
 .c-per{
     width: 55%;
-    animation: front 2s;
+    animation: c 2s;
 }
 @keyframes c {
     0%{
         width: 0%;
     }
-    55%{
+    100%{
         width: 55%;
     }}
 .python{
@@ -160,14 +160,14 @@
 }
 .python-per{
     width: 12%;
-    animation: front 2s;
+    animation: python 2s;
 }
 @keyframes python {
     0%{
         width: 0%;
     }
-    10%{
-        width: 10%;
+    100%{
+        width: 12%;
     }}     
     
 .scroll2{
