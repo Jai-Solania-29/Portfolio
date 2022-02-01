@@ -18,7 +18,7 @@
 .thead{
     font-size: 5rem;
     letter-spacing: -1px;
-    margin-left: 2.7%;
+    margin-left: 3%;
     margin-top: -0.8%;
     font-family: 'Anton', sans-serif;
     color: #08FDD8;
@@ -120,7 +120,7 @@
 }
 .scroll3{
     display: flex;
-    margin-top: -3%;
+    margin-top: -1%;
 }
 .scrl5{
     transform: rotate(90deg);

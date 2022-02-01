@@ -6,6 +6,8 @@ import About from "./components/About";
 import Skills from "./components/Skills";
 import Tools from "./components/Tools";
 import Education from "./components/Education";
+import Work from "./components/Work";
+import Contact from "./components/Contact";
 
 export const routes: Route[] = [
 
@@ -32,6 +34,14 @@ export const routes: Route[] = [
 {
     path:"/edu",
     element:<Education/>
+},
+{
+    path:"/work",
+    element:<Work/>
+},
+{
+    path:"/contact",
+    element:<Contact/>
 },
 
 ];
