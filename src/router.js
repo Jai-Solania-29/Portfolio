@@ -5,6 +5,7 @@ import Homepage from "./components/Homepage";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Tools from "./components/Tools";
+import Education from "./components/Education";
 
 export const routes: Route[] = [
 
@@ -27,6 +28,10 @@ export const routes: Route[] = [
 {
     path:"/tools",
     element:<Tools/>
+},
+{
+    path:"/edu",
+    element:<Education/>
 },
 
 ];
