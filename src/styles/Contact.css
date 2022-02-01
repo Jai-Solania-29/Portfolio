@@ -1,0 +1,32 @@
+.contact{
+    text-align: left;
+    color: white;
+    margin-left: 2%;
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+.h7{
+    color: #515152;
+    font-family: 'Yellowtail', cursive;
+    font-size: 1rem;
+    letter-spacing: 2px;
+    margin-left: 1%;
+    margin-top: 4%;
+}
+.c-head{
+    font-size: 5rem;
+    letter-spacing: -1px;
+    margin-left: 3%;
+    margin-top: -0.8%;
+    font-family: 'Anton', sans-serif;
+    color: #08FDD8;
+}
+.h7close{
+    color: #515152;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 2px;
+    margin-left: 3%;
+    font-size: 0.9rem;
+    font-weight: lighter;
+    margin-left: 1%;
+}
