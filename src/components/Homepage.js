@@ -6,6 +6,7 @@ import Tools from "./Tools";
 import "../styles/Homepage.css"
 import { FaAngleDoubleDown } from "react-icons/fa";
 import Education from "./Education";
+import Work from "./Work";
 
 const Homepage =()=>{
     return (
@@ -37,6 +38,7 @@ const Homepage =()=>{
     <Skills/>
     <Tools/>
     <Education/>
+    <Work/>
 </div>
     )
 }
