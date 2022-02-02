@@ -17,25 +17,23 @@ const Contact = () =>{
                 <h1 className="c-head">Why working<br></br><span className="alone">Alone!</span><span className="h7close"> &lt;/h1&gt;</span></h1>
                 <p className="c-para">Let's make something incredible together!</p>
             </div>
-            
-
+            <div className="contact3">
                 <div className="table">
                     <h4 className="h-mail">CONTACT</h4>
                     <p className="j-mail"><IoMdMail/><p id="m-name">jaideep2912@gmail.com</p></p>
                     <p className="c-mail"><IoMdMail/><p id="m-name">jaideep2020csai096@abesit.edu.in</p></p>
                     <h4 className="h-social">SOCIAL</h4>
                 </div>
-
                     <div className="i-social">
-                        <p classname="insta"><BsInstagram/></p>
-                        {/* <p classname="fb"><FaFacebookSquare/></p>
-                        <p classname="ln"><BsLinkedin/></p>
-                        <p classname="twt"><FaTwitterSquare/></p>
-                        <p classname="git"><GoMarkGithub/></p>
-                        <p classname="mdm"><BsMedium/></p>
-                        <p classname="dbl"><BsDribbble/></p> */}
+                        <p className="insta"><BsInstagram/></p>
+                        <p className="fb"><FaFacebookSquare/></p>
+                        <p className="ln"><BsLinkedin/></p>
+                        <p className="twt"><FaTwitterSquare/></p>
+                        <p className="git"><GoMarkGithub/></p>
+                        <p className="mdm"><BsMedium/></p>
+                        <p className="dbl"><BsDribbble/></p>
                     </div>
-
+            </div>
                 
         </div>
 

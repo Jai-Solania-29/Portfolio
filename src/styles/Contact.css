@@ -47,32 +47,98 @@
     letter-spacing: 1.5px;
 }
 .table{
-    margin-left: 2%;
+    margin-left: 3%;
+    margin-top: 5%;
 }
 .h-mail{
     font-size: 1.1rem;
 }
 .j-mail{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
+    width: 21%;
+    cursor: pointer;
 }
+/* .j-mail:hover{
+    color: #08FDD8;
+} */
 .c-mail{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
+    width: 21%;
+    cursor: pointer;
 }
+/* .c-mail:hover{
+    color: #08FDD8;
+} */
 #m-name{
-    margin-left: 2%;
-    margin-top: -1.8%;
+    margin-left: 11%;
+    margin-top: -10.7%;
     font-size: 0.9rem;
-}
-.h-mail{
-    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+    width: 90%;
+    /* font-family: 'Roboto Mono', monospace; */
 }
 .h-social{
     font-size: 1.1rem;
+    margin-top: 4%;
 }
-/* .i-social{
+.i-social{
     display: flex;
-} */
+    margin-left: 3%;
+    margin-top: -2%;
+}
 .insta{
-    font-size: 10rem;
+    font-size: 2rem;
+    cursor: pointer;
+}
+.insta:hover{
+    color: #08FDD8;
+}
+.fb{
+    font-size: 2rem;
+    margin-left: 1.7%;
+    cursor: pointer;
+}
+.fb:hover{
+    color: #08FDD8;
+}
+.ln{
+    font-size: 2rem;
+    margin-left: 1.7%;
+    cursor: pointer;
+}
+.ln:hover{
+    color: #08FDD8;
+}
+.twt{
+    font-size: 2rem;
+    margin-left: 1.7%;
+    cursor: pointer;
+}
+.twt:hover{
+    color: #08FDD8;
+}
+.git{
+    font-size: 2rem;
+    margin-left: 1.7%;
+    cursor: pointer;
+}
+.git:hover{
+    color: #08FDD8;
+}
+.mdm{
+    font-size: 2rem;
+    margin-left: 1.7%;
+    cursor: pointer;
+}
+.mdm:hover{
+    color: #08FDD8;
+}
+.dbl{
+    font-size: 2rem;
+    margin-left: 1.7%;
+    cursor: pointer;
+}
+.dbl:hover{
+    color: #08FDD8;
 }
 
