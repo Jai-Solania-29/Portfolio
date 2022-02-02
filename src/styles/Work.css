@@ -3,7 +3,7 @@
     color: white;
     margin-left: 2%;
     margin-top: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 30%;
 }
 .h6{
     color: #515152;
@@ -30,26 +30,28 @@
     font-weight: lighter;
     margin-left: 1%;
 }
-.p3{
+/* .p3{
     color: #515152;
     font-size: 1rem;
     font-family: 'Yellowtail', cursive;
     letter-spacing: 2px;
     margin-left: 1%;
     margin-top: -3%;
-}
-.p3close{
+} */
+/* .p3close{
     color: #515152;
     font-size: 1rem;
     font-family: 'Yellowtail', cursive;
     letter-spacing: 2px;
     margin-left: 1%;
-}
+} */
 .w-para{
     margin-left: 3%;
-    margin-top: -0.9%;
-    color: white;
-    font-size: 1.3rem;
+    margin-top: -3%;
     width: 40%;
     margin-bottom: -0.7%;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.1rem;
+    color: #A5A5A5;
+    letter-spacing: 1.5px;
 }

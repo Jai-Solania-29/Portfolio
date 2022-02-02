@@ -14,9 +14,17 @@
     margin-top: 4%;
 }
 .c-head{
-    font-size: 5rem;
+    font-size: 2rem;
     letter-spacing: -1px;
     margin-left: 3%;
+    margin-top: -0.8%;
+    font-family: 'Anton', sans-serif;
+    color: #08FDD8;
+}
+.alone{
+    font-size: 5rem;
+    margin-left: -1%;
+    letter-spacing: -1px;
     margin-top: -0.8%;
     font-family: 'Anton', sans-serif;
     color: #08FDD8;
@@ -30,3 +38,41 @@
     font-weight: lighter;
     margin-left: 1%;
 }
+.c-para{
+    margin-left: 2%;
+    margin-top: -1.5%;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.1rem;
+    color: #A5A5A5;
+    letter-spacing: 1.5px;
+}
+.table{
+    margin-left: 2%;
+}
+.h-mail{
+    font-size: 1.1rem;
+}
+.j-mail{
+    font-size: 1.2rem;
+}
+.c-mail{
+    font-size: 1.2rem;
+}
+#m-name{
+    margin-left: 2%;
+    margin-top: -1.8%;
+    font-size: 0.9rem;
+}
+.h-mail{
+    font-size: 1.1rem;
+}
+.h-social{
+    font-size: 1.1rem;
+}
+/* .i-social{
+    display: flex;
+} */
+.insta{
+    font-size: 10rem;
+}
+
