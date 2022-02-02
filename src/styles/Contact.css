@@ -3,7 +3,7 @@
     color: white;
     margin-left: 2%;
     margin-top: 8%;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
 }
 .h7{
     color: #515152;
@@ -46,29 +46,19 @@
     color: #A5A5A5;
     letter-spacing: 1.5px;
 }
-.table{
-    margin-left: 3%;
-    margin-top: 5%;
-}
 .h-mail{
     font-size: 1.1rem;
 }
 .j-mail{
     font-size: 1.5rem;
-    width: 21%;
+    width: 50%;
     cursor: pointer;
 }
-/* .j-mail:hover{
-    color: #08FDD8;
-} */
 .c-mail{
     font-size: 1.5rem;
-    width: 21%;
+    width: 50%;
     cursor: pointer;
 }
-/* .c-mail:hover{
-    color: #08FDD8;
-} */
 #m-name{
     margin-left: 11%;
     margin-top: -10.7%;
@@ -79,12 +69,11 @@
 }
 .h-social{
     font-size: 1.1rem;
-    margin-top: 4%;
+    margin-top: 5.2%;
 }
 .i-social{
     display: flex;
-    margin-left: 3%;
-    margin-top: -2%;
+    margin-top: -5%;
 }
 .insta{
     font-size: 2rem;
@@ -95,7 +84,7 @@
 }
 .fb{
     font-size: 2rem;
-    margin-left: 1.7%;
+    margin-left: 2.7%;
     cursor: pointer;
 }
 .fb:hover{
@@ -103,7 +92,7 @@
 }
 .ln{
     font-size: 2rem;
-    margin-left: 1.7%;
+    margin-left: 2.7%;
     cursor: pointer;
 }
 .ln:hover{
@@ -111,7 +100,7 @@
 }
 .twt{
     font-size: 2rem;
-    margin-left: 1.7%;
+    margin-left: 2.7%;
     cursor: pointer;
 }
 .twt:hover{
@@ -119,7 +108,7 @@
 }
 .git{
     font-size: 2rem;
-    margin-left: 1.7%;
+    margin-left: 2.7%;
     cursor: pointer;
 }
 .git:hover{
@@ -127,7 +116,7 @@
 }
 .mdm{
     font-size: 2rem;
-    margin-left: 1.7%;
+    margin-left: 2.7%;
     cursor: pointer;
 }
 .mdm:hover{
@@ -135,10 +124,53 @@
 }
 .dbl{
     font-size: 2rem;
-    margin-left: 1.7%;
+    margin-left: 2.7%;
     cursor: pointer;
 }
 .dbl:hover{
     color: #08FDD8;
+}
+.contact3{
+    display: flex;
+}
+.table{
+    margin-left: 3%;
+    margin-top: 3%;
+    width: 40%;
+}
+.map{
+    margin-left: 5%;
+    margin-top: -9%;
+    width: 42.8%;
+}
+.add{
+    width: 100%;
+    height: 108%;
+}
+.html-close{
+    color: #515152;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 2px;
+}
+.body-close{
+    margin-left: 1%;
+    margin-top: -0.5%;
+    color: #515152;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 2px;
+}
+.line{
+    margin-top: 2%;
+    margin-left: -10%;
+}
+.tag{
+    margin-left: -2%;
+}
+.love{
+    font-size: 1.3rem;
+    margin-left: 0.5%;
+}
+.tag-name{
+    margin-left: -2%;
 }
 
