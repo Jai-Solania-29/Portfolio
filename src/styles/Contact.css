@@ -3,7 +3,7 @@
     color: white;
     margin-left: 2%;
     margin-top: 8%;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
 }
 .h7{
     color: #515152;
@@ -14,9 +14,17 @@
     margin-top: 4%;
 }
 .c-head{
-    font-size: 5rem;
+    font-size: 2rem;
     letter-spacing: -1px;
     margin-left: 3%;
+    margin-top: -0.8%;
+    font-family: 'Anton', sans-serif;
+    color: #08FDD8;
+}
+.alone{
+    font-size: 5rem;
+    margin-left: -1%;
+    letter-spacing: -1px;
     margin-top: -0.8%;
     font-family: 'Anton', sans-serif;
     color: #08FDD8;
@@ -30,3 +38,139 @@
     font-weight: lighter;
     margin-left: 1%;
 }
+.c-para{
+    margin-left: 2%;
+    margin-top: -1.5%;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.1rem;
+    color: #A5A5A5;
+    letter-spacing: 1.5px;
+}
+.h-mail{
+    font-size: 1.1rem;
+}
+.j-mail{
+    font-size: 1.5rem;
+    width: 50%;
+    cursor: pointer;
+}
+.c-mail{
+    font-size: 1.5rem;
+    width: 50%;
+    cursor: pointer;
+}
+#m-name{
+    margin-left: 11%;
+    margin-top: -10.7%;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+    width: 90%;
+    /* font-family: 'Roboto Mono', monospace; */
+}
+.h-social{
+    font-size: 1.1rem;
+    margin-top: 5.2%;
+}
+.i-social{
+    display: flex;
+    margin-top: -5%;
+}
+.insta{
+    font-size: 2rem;
+    cursor: pointer;
+}
+.insta:hover{
+    color: #08FDD8;
+}
+.fb{
+    font-size: 2rem;
+    margin-left: 2.7%;
+    cursor: pointer;
+}
+.fb:hover{
+    color: #08FDD8;
+}
+.ln{
+    font-size: 2rem;
+    margin-left: 2.7%;
+    cursor: pointer;
+}
+.ln:hover{
+    color: #08FDD8;
+}
+.twt{
+    font-size: 2rem;
+    margin-left: 2.7%;
+    cursor: pointer;
+}
+.twt:hover{
+    color: #08FDD8;
+}
+.git{
+    font-size: 2rem;
+    margin-left: 2.7%;
+    cursor: pointer;
+}
+.git:hover{
+    color: #08FDD8;
+}
+.mdm{
+    font-size: 2rem;
+    margin-left: 2.7%;
+    cursor: pointer;
+}
+.mdm:hover{
+    color: #08FDD8;
+}
+.dbl{
+    font-size: 2rem;
+    margin-left: 2.7%;
+    cursor: pointer;
+}
+.dbl:hover{
+    color: #08FDD8;
+}
+.contact3{
+    display: flex;
+}
+.table{
+    margin-left: 3%;
+    margin-top: 3%;
+    width: 40%;
+}
+.map{
+    margin-left: 5%;
+    margin-top: -9%;
+    width: 42.8%;
+}
+.add{
+    width: 100%;
+    height: 108%;
+}
+.html-close{
+    color: #515152;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 2px;
+}
+.body-close{
+    margin-left: 1%;
+    margin-top: -0.5%;
+    color: #515152;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 2px;
+}
+.line{
+    margin-top: 2%;
+    margin-left: -10%;
+}
+.tag{
+    margin-left: -2%;
+}
+.love{
+    font-size: 1.3rem;
+    margin-left: 0.5%;
+}
+.tag-name{
+    margin-left: -2%;
+}
+

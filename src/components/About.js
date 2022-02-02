@@ -18,7 +18,7 @@ const About = () =>{
             <button className="resume">RESUME</button>
             </div>
             <div className="profile">
-                <img className="image" src={jai} alt="jai" />;
+                <img className="image" src={jai} alt="jai" />
             </div>
             
         </div>
