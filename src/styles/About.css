@@ -43,6 +43,7 @@
 .me{
     margin-left: 6%;
     font-size: 1.3rem;
+    letter-spacing: 1px;
     /* font-family: 'Roboto Mono', monospace; */
 }
 .profile{
