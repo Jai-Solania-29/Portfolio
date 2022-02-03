@@ -8,7 +8,8 @@ import { FaTwitterSquare } from "react-icons/fa";
 import { GoMarkGithub } from "react-icons/go";
 import { BsMedium } from "react-icons/bs";
 import { BsDribbble } from "react-icons/bs";
-import { FcLike } from "react-icons/fc";
+import { BiCopyright } from "react-icons/bi";
+import { IoIosArrowUp } from "react-icons/io";
 
 const Contact = () =>{
     return(
@@ -25,24 +26,25 @@ const Contact = () =>{
                     <p className="c-mail"><IoMdMail/><p id="m-name">jaideep2020csai096@abesit.edu.in</p></p>
                     <h4 className="h-social">SOCIAL</h4>
                     <div className="i-social">
-                        <p className="insta"><BsInstagram/></p>
-                        <p className="fb"><FaFacebookSquare/></p>
-                        <p className="ln"><BsLinkedin/></p>
-                        <p className="twt"><FaTwitterSquare/></p>
-                        <p className="git"><GoMarkGithub/></p>
-                        <p className="mdm"><BsMedium/></p>
-                        <p className="dbl"><BsDribbble/></p>
+                    <a target="_blank" className="i-first" href="https://www.instagram.com/jai_solania_29/"><p className="insta"><BsInstagram/></p></a>
+                    <a target="_blank" id="s-icon" href="https://www.facebook.com/jaideep.chaudhary.180"><p className="fb"><FaFacebookSquare/></p></a>
+                    <a target="_blank" id="s-icon" href="https://www.linkedin.com/in/jaideep-solania-a426691b6/"><p className="ln"><BsLinkedin/></p></a>
+                    <a target="_blank" id="s-icon" href="https://twitter.com/jai_solania_29"><p className="twt"><FaTwitterSquare/></p></a>
+                    <a target="_blank" id="s-icon" href="https://github.com/Jaideep2912"><p className="git"><GoMarkGithub/></p></a>
+                    <a target="_blank" id="s-icon" href="https://dribbble.com/jai_solania_29"><p className="dbl"><BsDribbble/></p></a>
+                    <a target="_blank" id="s-icon" href="https://medium.com/@jai_solania_29"><p className="mdm"><BsMedium/></p></a>
                     </div>
                 </div>
                 <div className="map">
-                <iframe className="add" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d219.63448776455243!2d78.12459218910686!3d28.263413445852912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390b4f36372f9739%3A0x5b129351dad9e0c5!2sChaudhary%20House!5e0!3m2!1sen!2sin!4v1643821820354!5m2!1sen!2sin"></iframe>
+                    <iframe className="add" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d219.63448776455243!2d78.12459218910686!3d28.263413445852912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390b4f36372f9739%3A0x5b129351dad9e0c5!2sChaudhary%20House!5e0!3m2!1sen!2sin!4v1643821820354!5m2!1sen!2sin"></iframe>
                 </div>
             </div>
             <p className="body-close">&lt; /body &gt;</p>
             <p className="html-close">&lt; /html &gt;</p> 
             <hr className="line"></hr> 
-            <p className="tag">Crafted with <span className="love"><FcLike/></span></p>
-            <p className="tag-name">2021-Jaideep Solania</p>
+            <p className="tag">Crafted with ❤️</p>
+            <p className="i-tag"><BiCopyright/><p className="tag-name">2022 Jaideep Solania</p></p>
+            <p className="arrow"><IoIosArrowUp/></p>
         </div>
         
     )

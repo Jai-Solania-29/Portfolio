@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
 .contact{
     text-align: left;
     color: white;
     margin-left: 2%;
     margin-top: 8%;
-    margin-bottom: 2%;
+    margin-bottom: -1.8%;
 }
 .h7{
     color: #515152;
@@ -75,59 +76,19 @@
     display: flex;
     margin-top: -5%;
 }
-.insta{
+.i-first{
+    color: white;
     font-size: 2rem;
-    cursor: pointer;
 }
-.insta:hover{
+.i-first:hover{
     color: #08FDD8;
 }
-.fb{
-    font-size: 2rem;
+#s-icon{
+    color: white;
     margin-left: 2.7%;
-    cursor: pointer;
-}
-.fb:hover{
-    color: #08FDD8;
-}
-.ln{
     font-size: 2rem;
-    margin-left: 2.7%;
-    cursor: pointer;
 }
-.ln:hover{
-    color: #08FDD8;
-}
-.twt{
-    font-size: 2rem;
-    margin-left: 2.7%;
-    cursor: pointer;
-}
-.twt:hover{
-    color: #08FDD8;
-}
-.git{
-    font-size: 2rem;
-    margin-left: 2.7%;
-    cursor: pointer;
-}
-.git:hover{
-    color: #08FDD8;
-}
-.mdm{
-    font-size: 2rem;
-    margin-left: 2.7%;
-    cursor: pointer;
-}
-.mdm:hover{
-    color: #08FDD8;
-}
-.dbl{
-    font-size: 2rem;
-    margin-left: 2.7%;
-    cursor: pointer;
-}
-.dbl:hover{
+#s-icon:hover{
     color: #08FDD8;
 }
 .contact3{
@@ -135,7 +96,7 @@
 }
 .table{
     margin-left: 3%;
-    margin-top: 3%;
+    margin-top: 2%;
     width: 40%;
 }
 .map{
@@ -161,16 +122,36 @@
 }
 .line{
     margin-top: 2%;
-    margin-left: -10%;
+    margin-left: -2.3%;
+    margin-right: 6.8%;
+    border-top: solid #515152;
+    border-left: #040C18;
+    border-bottom: #040C18;
+    border-right: #040C18;
 }
 .tag{
     margin-left: -2%;
+    font-family: 'Electrolize', sans-serif;
 }
-.love{
-    font-size: 1.3rem;
-    margin-left: 0.5%;
+
+.i-tag{
+    margin-left: -2%;
+    margin-top: -0.8%;
 }
 .tag-name{
-    margin-left: -2%;
+    margin-left: 1.5%;
+    margin-top: -1.5%;
+    font-family: 'Electrolize', sans-serif;
+}
+.arrow{
+    text-align: right;
+    font-size: 2.5rem;
+    margin-top: -4.6%;
+    margin-right: 7.2%;
+    margin-left: 90%;
+    cursor: pointer;
+}
+.arrow:hover{
+    color: #08FDD8;
 }
 
