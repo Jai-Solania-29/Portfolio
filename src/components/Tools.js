@@ -12,8 +12,8 @@ import { BsFillBootstrapFill } from "react-icons/bs";
 
 const Tools = () =>{
     return(
-        <div className="tools">
-            <div className="tools2">
+        <div id="tools">
+            <div id="tools2">
             <p className="h4">&lt; h1 &gt;</p>
             <h1 className="thead">Tools<span className="h4close"> &lt;/h1&gt;</span></h1>
             </div>
@@ -30,14 +30,6 @@ const Tools = () =>{
                 {/* <p className="i-html"><SiHtml5/></p><p id="name">HTML</p> */}
 
             </div>
-            <div className="scroll3">
-                <p className="scrl5">scroll down</p>
-                <p className="scrl6">scroll down</p>
-            </div>
-            <div className="icons3">
-                <p className="icon5"><FaAngleDoubleDown/></p>
-                <p className="icon6"><FaAngleDoubleDown/></p>
-             </div>
 
   
         </div>

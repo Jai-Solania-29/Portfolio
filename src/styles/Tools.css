@@ -1,12 +1,12 @@
-.tools{
+#tools{
     text-align: left;
     color: white;
     margin-left: 2%;
-    margin-top: 12%;
     margin-bottom: 2%;
 }
-.tools2{
+#tools2{
     margin-bottom: 5%;
+    padding-top: 4%;
 }
 .h4{
     color: #515152;

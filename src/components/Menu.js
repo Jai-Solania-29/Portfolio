@@ -11,12 +11,12 @@ const Menu =()=>{
     return(
         <div className="menu">
            <div className="menu-bar">
-               <p className="home"><AiTwotoneHome/></p>
-               <p className="about1"><BsPersonFill/></p>
-               <p className="skill1"><BsFileCodeFill/></p>
-               <p className="tool1"><AiTwotoneTool/></p>
-               <p className="work1"><FaEye/></p>
-               <p className="contact1"><IoMdMail/></p>
+            <a href="#intro"><p className="home"><AiTwotoneHome/></p></a>
+            <a href="#about"><p className="about1"><BsPersonFill/></p></a>
+            <a href="#skills"><p className="skill1"><BsFileCodeFill/></p></a>
+            <a href="#tools2"><p className="tool1"><AiTwotoneTool/></p></a>
+            <a href="#work"><p className="work1"><FaEye/></p></a>
+            <a href="#contact"><p className="contact1"><IoMdMail/></p></a>
 
            </div>
         </div>

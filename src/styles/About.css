@@ -1,9 +1,9 @@
-.about{
+#about{
     text-align: left;
     color: white;
     display: flex;
     margin-left: 2%;
-    margin-top: 8%;
+    margin-top: 2%;
     margin-bottom: 3%;
 }
 .h2{
@@ -15,6 +15,7 @@
 }
 .about2{
     width: 50%;
+    margin-top: 7%;
 }
 .about-me{
     font-size: 5rem;
@@ -49,7 +50,7 @@
 .profile{
     width: 40%;
     margin-left: 5%;
-    margin-top: 1%;
+    margin-top: 8%;
     text-align: center;
     margin-bottom: 2%;
 }

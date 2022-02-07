@@ -1,9 +1,10 @@
-.work{
+#work{
     text-align: left;
     color: white;
     margin-left: 2%;
-    margin-top: 5%;
-    margin-bottom: 30%;
+    margin-bottom: 5%;
+    margin-top: 8%;
+    padding-top: 0.1%;
 }
 .h6{
     color: #515152;
@@ -30,21 +31,6 @@
     font-weight: lighter;
     margin-left: 1%;
 }
-/* .p3{
-    color: #515152;
-    font-size: 1rem;
-    font-family: 'Yellowtail', cursive;
-    letter-spacing: 2px;
-    margin-left: 1%;
-    margin-top: -3%;
-} */
-/* .p3close{
-    color: #515152;
-    font-size: 1rem;
-    font-family: 'Yellowtail', cursive;
-    letter-spacing: 2px;
-    margin-left: 1%;
-} */
 .w-para{
     margin-left: 3%;
     margin-top: -3%;
@@ -54,4 +40,97 @@
     font-size: 1.1rem;
     color: #A5A5A5;
     letter-spacing: 1.5px;
+}
+.project1{
+    margin-top: 8%;
+    margin-left: 5%;
+}
+.project2{
+    margin-top: 4%;
+    margin-left: 5%;
+}
+.project3{
+    margin-top: 4%;
+    margin-left: 5%;
+}
+.img1{
+    height: 33rem;
+}
+.img2{
+    height: 33rem;
+}
+.img3{
+    height: 33rem;
+}
+.card1{
+    background-color: black;
+    width: 27rem;
+    height: 16rem;
+    margin-left: 51%;
+    margin-top: -12%;
+    position: relative;
+}
+.l-head{
+    margin-left: 5%;
+    padding-top: 3%;
+}
+#l-para{
+    margin-left: 5%;
+    margin-top: -2%;
+    margin-right: 4%;
+    color: #A5A5A5;
+    font-family: 'Roboto Mono', monospace;
+}
+.l-icon1{
+    margin-left: 77%;
+    margin-top: -9%;
+    color: skyblue;
+}
+.l-icon2{
+    margin-left: 86%;
+    margin-top: -18.2%;
+    color: yellow;
+}
+.l-icon3{
+    margin-left: 58%;
+    margin-top: -9%;
+    color: skyblue;
+}
+.l-icon4{
+    margin-left: 68%;
+    margin-top: -18.2%;
+    color: yellow;
+}
+.l-icon5{
+    margin-left: 54%;
+    margin-top: -9%;
+    color: #FF7A00;
+}
+.l-icon6{
+    margin-left: 63%;
+    margin-top: -18.2%;
+    color: #3DB2FF;
+}
+.l-icon7{
+    margin-left: 73%;
+    margin-top: -18.2%;
+    color: yellow;
+}
+#github{
+    font-size: 2rem;
+    display: flex;
+    margin-left: 5%;
+}
+#i-git{
+    color: white;
+}
+#i-git:hover{
+    color: #08FDD8;
+}
+#i-link{
+    margin-left: 2%;
+    color: white;
+}
+#i-link:hover{
+    color: #08FDD8;
 }

@@ -1,12 +1,11 @@
-.education{
+#education{
     text-align: left;
     color: white;
     margin-left: 2%;
-    margin-top: 5%;
-    margin-bottom: 2%;
 }
-.edu{
+#edu{
     display: flex;
+    padding-top: 7%;
 }
 .edu1{
     width: 60%;
@@ -14,6 +13,7 @@
 .edu2{
     width: 40%;
     margin-left: 5%;
+    margin-bottom: -6%;
 }
 .h5{
     color: #515152;

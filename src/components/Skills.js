@@ -4,15 +4,7 @@ import { FaAngleDoubleDown } from "react-icons/fa";
 
 const Skills = () => {
     return(
-        <div className="skills">
-         <div className="scroll2">
-            <p className="scrl3">scroll down</p>
-            <p className="scrl4">scroll down</p>
-        </div>
-        <div className="icons2">
-            <p className="icon3"><FaAngleDoubleDown/></p>
-            <p className="icon4"><FaAngleDoubleDown/></p>
-        </div>
+        <div id="skills">
         <div className="skills2">
             <div className="skl">
                 <p className="h3">&lt; h1 &gt;</p>

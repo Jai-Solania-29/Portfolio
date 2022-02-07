@@ -13,8 +13,8 @@ import { IoIosArrowUp } from "react-icons/io";
 
 const Contact = () =>{
     return(
-        <div className="contact">
-            <div className="contact2">
+        <div id="contact">
+            <div id="contact2">
                 <p className="h7">&lt; h1 &gt;</p>  
                 <h1 className="c-head">Why working<br></br><span className="alone">Alone!</span><span className="h7close"> &lt;/h1&gt;</span></h1>
                 <p className="c-para">Let's make something incredible together!</p>
@@ -36,7 +36,7 @@ const Contact = () =>{
                     </div>
                 </div>
                 <div className="map">
-                    <iframe className="add" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d219.63448776455243!2d78.12459218910686!3d28.263413445852912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390b4f36372f9739%3A0x5b129351dad9e0c5!2sChaudhary%20House!5e0!3m2!1sen!2sin!4v1643821820354!5m2!1sen!2sin"></iframe>
+                    <iframe className="add" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2913.884731064609!2d77.43696512814293!3d28.6279690411514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ceff5d2a20645%3A0x80fa86942b0f6c49!2sParamount%20Symphony!5e0!3m2!1sen!2sin!4v1644242272074!5m2!1sen!2sin"></iframe>
                 </div>
             </div>
             <p className="body-close">&lt; /body &gt;</p>
@@ -44,7 +44,7 @@ const Contact = () =>{
             <hr className="line"></hr> 
             <p className="tag">Crafted with ❤️</p>
             <p className="i-tag"><BiCopyright/><p className="tag-name">2022 Jaideep Solania</p></p>
-            <p className="arrow"><IoIosArrowUp/></p>
+            <a href="#intro"><p className="arrow"><IoIosArrowUp/></p></a>
         </div>
         
     )

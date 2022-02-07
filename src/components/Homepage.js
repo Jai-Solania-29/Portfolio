@@ -12,9 +12,9 @@ import Contact from "./Contact";
 const Homepage =()=>{
     return (
 
-<div className="homepage">
+<div id="homepage">
         <Menu/>
-    <div className="intro">
+    <div id="intro">
         <p className="html">&lt; html &gt;</p>
         <p className="body">&lt; body &gt;</p>
         <br></br>

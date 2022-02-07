@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
 
-.homepage{
+#homepage{
     margin-left: 7%;
     text-align: left;
-    margin-top: 3%;
 }
-.intro{
+#intro{
     color: white;
     margin-left: 2%;
-    margin-top: -30%;
+    padding-top: 2%;
+    margin-top: -34.5%;
 }
 .name{
     text-align: left;

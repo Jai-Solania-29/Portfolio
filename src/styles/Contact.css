@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
-.contact{
+#contact{
     text-align: left;
     color: white;
     margin-left: 2%;
@@ -150,6 +150,7 @@
     margin-right: 7.2%;
     margin-left: 90%;
     cursor: pointer;
+    color: white;
 }
 .arrow:hover{
     color: #08FDD8;
