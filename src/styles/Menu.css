@@ -3,31 +3,37 @@
     color: white;
     text-align: right;
     margin-right: 1%;
-    margin-top: 10%;
+    margin-top: 11%;
     cursor: pointer;
 }
 .home{
     font-size: 1.8rem;
+    color: white;
 }
 .about1{
     font-size: 1.8rem;
     margin-top: -1%;
+    color: white;
 }
 .skill1{
     font-size: 1.8rem;
     margin-top: -1%;
+    color: white;
 }
 .tool1{
     font-size: 1.8rem;
     margin-top: -1%;
+    color: white;
 }
 .work1{
     font-size: 1.8rem;
     margin-top: -1%;
+    color: white;
 }
 .contact1{
     font-size: 1.8rem;
     margin-top: -1%;
+    color: white;
 }
 .home:hover{
     color: #08FDD8;

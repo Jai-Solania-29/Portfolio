@@ -4,8 +4,8 @@ import { IoSchool } from "react-icons/io5";
 
 const Education = () =>{
     return(
-        <div className="education">
-            <div className="edu">
+        <div id="education">
+            <div id="edu">
                 <div className="edu1">
                    <p className="h5">&lt; h1 &gt;</p>
                    <h1 className="e-head">Education<span className="h5close"> &lt;/h1&gt;</span></h1>
