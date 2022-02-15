@@ -54,11 +54,15 @@
     font-size: 1.5rem;
     width: 50%;
     cursor: pointer;
+    color: white;
+    text-decoration: none;
 }
 .c-mail{
     font-size: 1.5rem;
     width: 50%;
     cursor: pointer;
+    color: white;
+    text-decoration: none;
 }
 #m-name{
     margin-left: 11%;
@@ -66,6 +70,7 @@
     font-size: 0.9rem;
     letter-spacing: 0.5px;
     width: 90%;
+    text-decoration: underline #040C18;
     /* font-family: 'Roboto Mono', monospace; */
 }
 .h-social{
@@ -132,27 +137,31 @@
 .tag{
     margin-left: -2%;
     font-family: 'Electrolize', sans-serif;
+    cursor: default;
+    margin-right: 93%;
 }
 
 .i-tag{
     margin-left: -2%;
     margin-top: -0.8%;
+    margin-right: 80%;
 }
 .tag-name{
-    margin-left: 1.5%;
-    margin-top: -1.5%;
+    margin-left: 6.5%;
+    margin-top: -6.9%;
     font-family: 'Electrolize', sans-serif;
 }
 .arrow{
     text-align: right;
     font-size: 2.5rem;
     margin-top: -4.6%;
-    margin-right: 7.2%;
+    margin-right: 7.1%;
     margin-left: 90%;
-    cursor: pointer;
+}
+.ar-btn{
     color: white;
 }
-.arrow:hover{
+.ar-btn:hover{
     color: #08FDD8;
 }
 
