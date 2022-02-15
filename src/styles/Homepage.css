@@ -3,6 +3,7 @@
 #homepage{
     margin-left: 7%;
     text-align: left;
+    cursor: default;
 }
 #intro{
     color: white;

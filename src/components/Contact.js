@@ -22,8 +22,8 @@ const Contact = () =>{
             <div className="contact3">
                 <div className="table">
                     <h4 className="h-mail">CONTACT</h4>
-                    <p className="j-mail"><IoMdMail/><p id="m-name">jaideep2912@gmail.com</p></p>
-                    <p className="c-mail"><IoMdMail/><p id="m-name">jaideep2020csai096@abesit.edu.in</p></p>
+                    <a target="_blank" href="mailto:jaideep2912@gmail.com"><p className="j-mail"><IoMdMail/><p id="m-name">jaideep2912@gmail.com</p></p></a>
+                    <a target="_blank" href="mailto:jaideep2020csai096@abesit.edu.in"><p className="c-mail"><IoMdMail/><p id="m-name">jaideep2020csai096@abesit.edu.in</p></p></a>
                     <h4 className="h-social">SOCIAL</h4>
                     <div className="i-social">
                     <a target="_blank" className="i-first" href="https://www.instagram.com/jai_solania_29/"><p className="insta"><BsInstagram/></p></a>
@@ -44,7 +44,7 @@ const Contact = () =>{
             <hr className="line"></hr> 
             <p className="tag">Crafted with ❤️</p>
             <p className="i-tag"><BiCopyright/><p className="tag-name">2022 Jaideep Solania</p></p>
-            <a href="#intro"><p className="arrow"><IoIosArrowUp/></p></a>
+            <p className="arrow"><a className="ar-btn" href="#intro"><IoIosArrowUp/></a></p>
         </div>
         
     )

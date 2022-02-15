@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/About.css"
-import jai from '../Images/jai 2.jpg';
+import jai from '../Images/jai 2.jpeg';
 
 const About = () =>{
     return(
@@ -15,7 +15,7 @@ const About = () =>{
                 I believe in learning while doing, so I'm always ready to work on new and interesting things. 
             </p>
             <p className="p1close">&lt; /p &gt;</p>
-            <button className="resume">RESUME</button>
+            <a target="_blank" href="https://drive.google.com/file/d/11dpHiC-S8QgRmfc6u0SIGj6uR2cm71pQ/view?usp=sharing"><button className="resume">RESUME</button></a>
             </div>
             <div className="profile">
                 <img className="image" src={jai} alt="jai" />
