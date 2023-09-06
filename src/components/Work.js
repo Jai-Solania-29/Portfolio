@@ -50,7 +50,7 @@ const Work = () =>{
                     <p id="l-para">Clone of Zomato website made using only basic HTML, CSS, and JavaScript.</p>
                     <div id="github">
                         <a target="_blank" id="i-git" href="https://github.com/Jaideep2912/Zomato-Clone"><p><GoMarkGithub/></p></a>
-                        <a target="_blank" id="i-link" href="https://github.com/Jaideep2912"><p><FaLink/></p></a>
+                        <a target="_blank" id="i-link" href="https://zomato-clone29.netlify.app/"><p><FaLink/></p></a>
                     </div>
                 </div>
             </div>
