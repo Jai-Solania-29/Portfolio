@@ -2,7 +2,7 @@ import React from "react"
 import {  Route,  ReactLocation } from "react-location";
 import Menu from "./components/Menu";
 import Homepage from "./components/Homepage";
-import About from "./components/About";
+import About from "./components/About.test";
 import Skills from "./components/Skills";
 import Tools from "./components/Tools";
 import Education from "./components/Education";
