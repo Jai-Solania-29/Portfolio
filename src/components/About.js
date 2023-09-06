@@ -11,7 +11,7 @@ const About = () =>{
             <p className="p1">&lt; p &gt;</p>
             <p className="me">
                 Hey! My name is Jaideep Solania. I'm a student based in Bulandshahr, Uttar Pradesh, India.
-                I'm a beginner-level Web Developer, and open source enthusiast.
+                I'm a Web Developer, currently learning DevOps.
                 I believe in learning while doing, so I'm always ready to work on new and interesting things. 
             </p>
             <p className="p1close">&lt; /p &gt;</p>
